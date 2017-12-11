@@ -28,7 +28,7 @@
 * 卷积神经网络实现
 * 递归神经网络实现
 ### 计算机视觉相关
-* 图像分类
+* [图像分类](https://github.com/cryer/Image-Classification)
 * 图像定位
 * 物体检测
 * 语义分割
