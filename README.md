@@ -38,6 +38,6 @@
 
 增强学习
 -------
-* Q-learning
-* DQN
+* [Q-learning](https://github.com/cryer/Q-learning-implementation "项目代码实现")
+* [DQN](https://github.com/cryer/Q-learning-implementation "项目代码实现")
 * 待续
