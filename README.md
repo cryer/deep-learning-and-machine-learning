@@ -48,7 +48,7 @@
 
 生成对抗网络
 -------
-* GAN的实现
-* CGAN的实现
-* DCGAN的实现
+* [GAN的实现](https://github.com/cryer/GAN "项目代码实现")
+* [CGAN的实现](https://github.com/cryer/GAN "项目代码实现")
+* [DCGAN的实现](https://github.com/cryer/GAN "项目代码实现")
 * 待续
