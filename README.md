@@ -45,3 +45,10 @@
 * [Q-learning](https://github.com/cryer/Q-learning-implementation "项目代码实现")
 * [DQN](https://github.com/cryer/Q-learning-implementation "项目代码实现")
 * 待续
+
+生成对抗网络
+-------
+* GAN的实现
+* CGAN的实现
+* DCGAN的实现
+* 待续
