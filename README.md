@@ -35,7 +35,7 @@
 * 图像风格迁移
 * DeepDream
 ### 人脸识别相关
-* 人脸检测
+* [人脸检测](https://github.com/cryer/face-detection "项目代码实现")
 * 人脸校准
 * 人脸验证与识别
 * 待续
