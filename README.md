@@ -33,7 +33,7 @@
 * 物体检测
 * 语义分割
 * [图像风格迁移](https://github.com/cryer/Style_Transfer "项目代码实现")
-* DeepDream
+* [DeepDream](https://github.com/cryer/deep_dream "项目代码实现")
 ### 人脸识别相关
 * [人脸检测](https://github.com/cryer/face-detection "项目代码实现")
 * 人脸校准
