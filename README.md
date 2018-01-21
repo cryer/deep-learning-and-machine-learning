@@ -36,7 +36,7 @@
 * [DeepDream](https://github.com/cryer/deep_dream "项目代码实现")
 ### 人脸识别相关
 * [人脸检测](https://github.com/cryer/face-detection "项目代码实现")
-* 人脸校准
+* [人脸对齐](https://github.com/cryer/face-detection "项目代码实现")
 * [人脸验证与识别](https://github.com/cryer/face_recognition "项目代码实现")
 * 待续
 
