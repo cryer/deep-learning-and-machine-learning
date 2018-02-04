@@ -25,7 +25,7 @@
 -------
 ### 神经网络
 * [全连接神经网络实现](https://github.com/cryer/Fully_Connected_Nets_with_numpy "项目代码实现")
-* 卷积神经网络实现
+* [卷积神经网络实现](https://github.com/cryer/Coursera_deep_learning/tree/master/Convolutional%20Neural%20Nets/week1)
 * 递归神经网络实现
 ### 计算机视觉相关
 * [图像分类](https://github.com/cryer/Image-Classification "项目代码实现")
