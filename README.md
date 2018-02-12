@@ -39,6 +39,12 @@
 * [人脸对齐](https://github.com/cryer/face-detection "项目代码实现")
 * [人脸验证与识别](https://github.com/cryer/face_recognition "项目代码实现")
 * 待续
+### 自然语言处理
+* [词向量](https://github.com/cryer/Coursera_deep_learning/tree/master/sequence%20model/week2/word_embeding)
+* [机器翻译](https://github.com/cryer/Coursera_deep_learning/tree/master/sequence%20model/week3/Neural%20Machine%20Translation)
+* [触发词检测](https://github.com/cryer/Coursera_deep_learning/tree/master/sequence%20model/week3/Trigger%20Word%20Detection)
+* [生成爵士音乐](https://github.com/cryer/Coursera_deep_learning/tree/master/sequence%20model/week1/Improvise%20a%20Jazz%20Solo)
+* [emogify](https://github.com/cryer/Coursera_deep_learning/tree/master/sequence%20model/week2/emogify)
 
 增强学习
 -------
