@@ -30,7 +30,7 @@
 ### 计算机视觉相关
 * [图像分类](https://github.com/cryer/Image-Classification "项目代码实现")
 * 图像定位
-* [物体检测](https://github.com/cryer/Coursera_deep_learning/tree/master/Convolutional%20Neural%20Nets/week3 "项目代码实现")
+* [物体检测](https://github.com/cryer/YOLOv2 "项目代码实现")
 * 语义分割
 * [图像风格迁移](https://github.com/cryer/Style_Transfer "项目代码实现")
 * [DeepDream](https://github.com/cryer/deep_dream "项目代码实现")
