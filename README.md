@@ -6,7 +6,7 @@
 机器学习
 -------
 ### 回归
-* 线性回归
+* [线性回归](https://github.com/cryer/deep-learning-and-machine-learning/tree/master/regession "项目代码实现")
 * 树回归
 ### 分类
 * 逻辑回归
